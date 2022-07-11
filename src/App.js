@@ -7,7 +7,7 @@ import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   
